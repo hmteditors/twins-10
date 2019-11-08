@@ -5,7 +5,10 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor></editor>
+        <editor>Rebecca Rose Kaczmarek</editor>
+        <editor>Natalie Ann DiMattia</editor>
+        <editor>Anne-Catherine Schaaf</editor>
+        <editor>William Matthew Brown</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -19,7 +22,16 @@
   <text>
     <body>
 
-      <div n="10"> <l n="XXX"></l></div>
+      <div n="10">
+        <l n="387">ἤ τινα συλήσων νεκύων <w>κατατεθν<choice><sic>η</sic><corr>ει</corr></choice>ώτων</w>~</l>
+        <l n="388">ἤς <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName> προέηκε διασκοπιάασθαι ἕκαστα</l>
+        <l n="389">νῆας ἐπὶ γλαφυρὰς. ἢ σαυτὸν θυμὸς ἀνῆκε~</l>
+        <l n="390">τὸν δ' ἠμείβετ' ἔπειτα Δόλων~ ὑπὸ δ' ἔτρεμε γυῖα~</l>
+        <l n="391">πολλῇσιν μ' ἄτῃσι παρεκ νόον ἤγαγεν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName>~</l>
+        <l n="392">ὅς μοι <persName n="urn:cite2:hmt:pers.v1:pers1">Πηλείωνος</persName> ἀγαυοῦ μώνυχας ἵππους</l>
+        <l n="393">δωσέμεναι κατένευσε~ καὶ ἅρματα ποικίλα χαλκῷ~</l>
+        <l n="394">ἠνώγει δέ μ' ἰόντα θοὴν διὰ νυκτα μέλαιναν</l>
+      </div>
     </body>
   </text>
 </TEI>
