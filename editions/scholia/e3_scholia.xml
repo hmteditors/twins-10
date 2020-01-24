@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Scholia to Escorial Upsilon 1.1</title>
-        <author>Sophia Sarro</author>
-        <author>Maia Lee-Chin</author>
+        <author>Rebecca Rose Kaczmarek</author>
+        <author> Thomas Anthony Posillico</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -19,18 +19,18 @@
     <group n="10">
       <text n="e3">
         <body>
-          <div n="XX" type="scholion">
+          <div n="e3_132v_1" type="scholion">
             <div n="lemma">
               <p>
                 <num value="1">α</num>
               </p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:9.1</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.387</p>
             </div>
             <div n="comment">
               <p>
-                <p>λιτὰς μὲν τὴν ῤαψῳδίαν καλοῦσιν~ ἐπει δὴ δε οἱ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρῶες</rs> ἐκ παραδόξου νικῶσι βέλεσι                <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName> οὐκ οἰκείᾳ δυνάμει, παντὶ πόνῳ τὴν τυχήν φυλλάτουσι παρεμβολὴν ἐπὶ τῷ ναυστάθμῳ ποιούμενοι~                τοῖς δὲ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">ἕλλησιν</rs> ἅπαντα δυσχερῆ~ πρῶτα μὲν ἐν καιρῷ μὴ παρόντος ἀγαθοῦ συμμάχου~                εἶτα καὶ μετὰ παράβασιν τοσοῦτον εὐτυχούντων <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs>~ οἱ κεραυνοὶ τοῦ                <persName n="urn:cite2:hmt:pers.v1:pers8">Δίος</persName>~ μάλιστα δὲ πάντων ὁ τὴν αἰτίαν ἔχων <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνων</persName>                ἄχθεται~ ὅτ' ἂν δὲ ἄλλων πραγμάτων ἄρχεσθαι μέλλῃ̣, ὡς οἱ νόμιμοι τῶν ἱστοριογράφων~ παραγραφὰς ἐμβάλλει~ μεταβαίνων γὰρ ἐπὶ τὰ                <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">ἑλλήνων</rs>. ἀπεκορύφωσε τὸν λογὸν⁑</p>
+                <p>ἐπίτηδες ἐνδοσιμον αὐτῷ καιρὸν ψευσμάτων δίδωσιν. ὅπως δοκιμάσῃ αὐτου τοὺς λόγους~ τιγαρ⁑</p>
               </p>
             </div>
           </div>
