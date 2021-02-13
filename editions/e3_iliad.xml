@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -268,7 +268,9 @@
         <l n="225">ὅππως κέρδος ἔῃ~ μοῦνος δ' εἴ πέρ τε νοήσῃ,</l>
         <l n="226">ἀλλά τέ οἱ βράσσων τε νόος. λεπτὴ δέ τε μῆτις~</l>
         <l n="227">ὣς ἔφαθ' οἳ δ' ἔθελον <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδεϊ</persName> πολλοὶ ἕπεσθαι~</l>
-        <l n="228">ἠθελέτην <w><persName n="urn:cite2:hmt:pers.v1:pers127"><persName n="urn:cite2:hmt:pers.v1:pers281">Αἴαντε</persName></persName></w> δύω θεράποντες <persName n="urn:cite2:hmt:pers.v1:pers83">Ἄρηος</persName>~</l>
+        <l n="228">ἠθελέτην 
+            <persName n="urn:cite2:hmt:pers.v1:TWO_AJAXES">Αἴαντε</persName> δύω θεράποντες 
+          <persName n="urn:cite2:hmt:pers.v1:pers83">Ἄρηος</persName>~</l>
         <l n="229">ἤθελε <persName n="urn:cite2:hmt:pers.v1:pers212">Μηριόνης</persName>~ μάλα δ' ἤθελε <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορος</persName> υἱός~</l>
         <l n="230">ἤθελε δ' <persName n="urn:cite2:hmt:pers.v1:pers23">Ἀτρεΐδης</persName> δουρικλειτὸς <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName>,</l>
         <l n="231">ἤθελε δ' ὁ τλήμων <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσεὺς</persName> καταδῦναι ὅμιλον</l>
@@ -461,7 +463,12 @@
         <l n="458">τοῦ δ᾽ ἀπὸ μὲν κτιδέην κυνέην κεφαλῆιφιν ἕλοντο~</l>
 
         <l n="459">καὶ λυκέην~ καὶ τόξα παλίντονα καὶ δόρυ μακρόν~</l>
-        <l n="460">καὶ τά γ᾽ <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηναίῃ</persΝame> ληΐτιδι δῖος <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName></l>
+        <l n="460">καὶ τά γ᾽ 
+          <!--persName n="urn:cite2:hmt:pers.v1:pers67"> -->
+            Ἀθηναίῃ
+          <!-- /persΝame --> 
+            ληΐτιδι δῖος 
+            <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName></l>
         <l n="461">ὑψόσ᾽ ἀνέσχεθε χειρὶ καὶ εὐχόμενος ἔπος ηὔδα~</l>
         <l n="462">χαῖρε θεὰ τοῖσδεσσι~ σὲ γὰρ πρώτην ἐν <placeName n="urn:cite2:hmt:place.v1:place45">Ὀλύμπωι</placeName></l>
         <l n="463">πάντων ἀθανάτων ἐπιδωσόμεθ' ἀλλὰ καὶ αὖτις</l>
